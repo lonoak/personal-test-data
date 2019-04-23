@@ -1,0 +1,6 @@
+[
+{"name":"flare.UAM","size":5000,"imports":["flare.UPM","flare.UCM","flare.UC3M"]},
+{"name":"flare.UPM","size":5000,"imports":["flare.UCM","flare.UAM","flare.UC3M"]},
+{"name":"flare.UCM","size":5000,"imports":["flare.UPM","flare.UAM","flare.UC3M"]},
+{"name":"flare.UC3M","size":5000,"imports":["flare.UPM","flare.UCM","flare.UAM"]}
+]
