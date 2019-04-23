@@ -1,6 +1,6 @@
 [
-{"name":"flare.UAM","size":5000,"imports":["flare.UPM","flare.UCM","flare.UC3M"]},
-{"name":"flare.UPM","size":5000,"imports":["flare.UCM","flare.UAM","flare.UC3M"]},
-{"name":"flare.UCM","size":5000,"imports":["flare.UPM","flare.UAM","flare.UC3M"]},
-{"name":"flare.UC3M","size":5000,"imports":["flare.UPM","flare.UCM","flare.UAM"]}
+{"name":"UAM","size":5000,"imports":["UPM","UCM","UC3M"]},
+{"name":"UPM","size":5200,"imports":["UCM","UAM","UC3M"]},
+{"name":"UCM","size":5000,"imports":["UPM","UAM","UC3M"]},
+{"name":"UC3M","size":4000,"imports":["UPM","UCM","UAM"]}
 ]
