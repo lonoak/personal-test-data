@@ -1,6 +1,6 @@
 [
-{"name":"UAM","size":5000,"imports":["UPM","UCM","UC3M"]},
-{"name":"UPM","size":5200,"imports":["UCM","UAM","UC3M"]},
-{"name":"UCM","size":5000,"imports":["UPM","UAM","UC3M"]},
-{"name":"UC3M","size":4000,"imports":["UPM","UCM","UAM"]}
+{"name":"UAM","size":10,"imports":["UPM","UCM","UC3M"]},
+{"name":"UPM","size":20,"imports":["UCM","UAM","UC3M"]},
+{"name":"UCM","size":40,"imports":["UPM","UAM","UC3M"]},
+{"name":"UC3M","size":50,"imports":["UPM","UCM","UAM"]}
 ]
