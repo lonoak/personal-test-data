@@ -2,5 +2,7 @@
 {"name":"UAM","size":10000,"imports":["UPM","UCM","UC3M"]},
 {"name":"UPM","size":20000,"imports":["UCM","UAM","UC3M"]},
 {"name":"UCM","size":40000,"imports":["UPM","UAM","UC3M"]},
-{"name":"UC3M","size":50000,"imports":["UPM","UCM","UAM"]}
+{"name":"UC3M","size":50000,"imports":["UPM","UCM","UAM"]},
+{"name":"UAH","size":40000,"imports":["UPM","UAM","UC3M"]},
+{"name":"URJC","size":50000,"imports":["UPM","UAM"]}
 ]
